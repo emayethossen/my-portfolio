@@ -158,7 +158,79 @@ padding: 30px;
 .resume{
     padding: 130px 156px;
     text-align: center;
+    
 }
 .resume-content{
     display: flex;
+    gap: 71px;
+}
+.summary-title{
+    margin-bottom: 113px;
+}
+.edu{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 30px;
+
+}
+.exp{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.edu-title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #757575;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+.edu-year{
+    font-weight: 600;
+font-size: 20px;
+color: #757575;
+margin-bottom: 20px;
+}
+.edu-description{
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 30px;
+    
+}
+.exp-title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #757575;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+.exp-year{
+    font-weight: 600;
+font-size: 20px;
+color: #757575;
+margin-bottom: 20px;
+}
+.exp-description{
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 30px;
+
+}
+.btn-cv{
+    margin-top: 50px;
+}
+.contact{
+    display: flex;
+    padding: 130px 230px;
+   
+    gap: 117px;
+}
+.contact-title{
+    font-weight: 700;
+font-size: 35px;
+width: 305px;
+}
+.contact-description{
+    font-size: 16px;
+    color: #474747;
 }
